@@ -35,4 +35,4 @@ pip install requirements.txt
 just paste your OMDB api in main.py
 
 # FYI
-This is my first ever usefull (and working) script, so it's sloppy and slow.
+This is my first ever useful (and working) script, so it's sloppy and slow.

@@ -7,7 +7,7 @@
 Scrapes [Mubi](https://www.mubi.com/showing) for movies and produces a StevenLu type list for radarr.
 > This was inspired by Steven Lu's list (https://github.com/sjlu/popular-movies).
 
-Uses beautifulsoup4 library for scraping and omdbapi library for movie metadata
+Uses beautifulsoup4 library for scraping and omdbapi library for fetching movie metadata
 
 # Radarr
 This list uses a structure that is compatible with the StevenLuImport (https://github.com/Radarr/Radarr/wiki/Supported-NetImports#stevenluimport).

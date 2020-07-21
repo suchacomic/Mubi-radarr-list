@@ -28,11 +28,12 @@ Uses the OMDB api, so needs a api key.
 ```
 pip install requirements.txt
 ```
- also python version greater than 3.8
+ also minimum python version 3.8 is required.
 
 # Initializing
 
 just paste your OMDB api in main.py
 
 # FYI
-This is my first ever useful (and working) script, so it's sloppy and slow.
++ This is my first ever useful (and working) script, so it's sloppy
++ you'll need to host the output file somewhere as the url field for lists in radarr only accepts suprisingly, urls and not local adresses.

@@ -21,10 +21,10 @@ Uses the OMDB api, so needs a api key.
 [genrate a key.](https://www.omdbapi.com/apikey.aspx)
 
 # Dependencies
-1. [omdbapi](https://pypi.org/project/omdbapi/)
-2. [tqdm](https://pypi.org/project/tqdm/)
-3. [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
-4. [requests](https://pypi.org/project/requests/)
++ [omdbapi](https://pypi.org/project/omdbapi/)
++ [tqdm](https://pypi.org/project/tqdm/)
++ [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
++ [requests](https://pypi.org/project/requests/)
 
  or just
 ```

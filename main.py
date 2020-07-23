@@ -42,6 +42,7 @@ with open('listfile', 'w') as f:
         
     for items in movies:
         f.write('%s' % items + '\u002C' + '\n')
-
+    f.close()
 with open('listfile', 'a') as file:
     file.write('\u005D')    
+    file.close()

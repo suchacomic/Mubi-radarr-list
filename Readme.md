@@ -11,16 +11,16 @@ Scrapes [Mubi](https://www.mubi.com/showing) for movies and produces a StevenLu 
 
 Uses beautifulsoup4 library for scraping and omdbapi library for fetching movie metadata
 
-# Radarr
+## Radarr
 This list uses a structure that is compatible with the StevenLuImport (https://github.com/Radarr/Radarr/wiki/Supported-NetImports#stevenluimport).
 so you can just plug this list in the url field.
 
-# Open Movie Database ([OMDb](https://www.omdbapi.com))
+## Open Movie Database ([OMDb](https://www.omdbapi.com))
 
 Uses the OMDB api, so needs a api key.
 [genrate a key.](https://www.omdbapi.com/apikey.aspx)
 
-# Dependencies
+## Dependencies
 + [omdbapi](https://pypi.org/project/omdbapi/)
 + [tqdm](https://pypi.org/project/tqdm/)
 + [beautifulsoup4](https://pypi.org/project/beautifulsoup4/)
@@ -30,13 +30,13 @@ Uses the OMDB api, so needs a api key.
 ```
 pip install requirements.txt
 ```
- also minimum python version 3.8 is required.
+#### minimum python version 3.8 is required.
 
-# Initializing
+## Initializing
 
 just paste your OMDB api in main.py
 
-# FYI
+## FYI
 + This is my first ever useful (and working) script, so it's sloppy
 + you'll need to host the output file somewhere as the url field for lists in radarr only accepts suprisingly, urls and not local adresses.
 

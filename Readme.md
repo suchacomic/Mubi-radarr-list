@@ -40,4 +40,3 @@ just paste your OMDB api in main.py
 + This is my first ever useful (and working) script, so it's sloppy
 + you'll need to host the output file somewhere as the url field for lists in radarr only accepts suprisingly, urls and not local adresses.
 
-<img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2FSuchaComic%2FMubi-radarr-list" alt="Hits">

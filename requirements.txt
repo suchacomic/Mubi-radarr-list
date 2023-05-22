@@ -1,4 +1,4 @@
-requests==2.23.0
+requests==2.31.0
 omdbapi==0.5.4
 tqdm==4.48.0
 beautifulsoup4==4.9.1
